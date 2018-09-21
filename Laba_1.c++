@@ -4,7 +4,7 @@ int main()
 {
     setlocale(LC_CTYPE, "ukr");
     int a, b, c, number=0;
-        cout<<"Ââåä³òü áàæàíèé íîìåð"<<endl;
+        cout<<"Ð’Ð²ÐµÐ´Ñ–Ñ‚ÑŒ Ñ‡Ð¸ÑÐ»Ð¾"<<endl;
         cin>>a;
    for (b=1;b<11;b++){
         c = a * b;
